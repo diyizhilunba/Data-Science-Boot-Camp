@@ -1,0 +1,17 @@
+1. How do you assess the statistical significance of an insight?
+We assume the statement is correct, and calculate the probability of the situation under that statement, if the probability is greater than 5%, it is usually significant
+
+2. What is the Central Limit Theorem? Explain it. Why is it important?
+For some distribution that is actually not normal, if all the samples are independent and the sample size is greater than 30, we can see it as normal so that it is easy for us to analyze
+3. What is the statistical power?
+Statistical power is the likelihood of a significance test detecting an effect when there actually is one.
+4. How do you control for biases?
+
+5. What are confounding variables?
+Variables that may change each other
+6. What is A/B testing?
+A simple type of randomly controlled testing
+7. What are confidence intervals?
+The frequency of the event occurs under that situation if it is repeated for many,many times
+
+
